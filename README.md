@@ -1,4 +1,4 @@
-My name is Steven, intrested in game development, graphics programming. Right now working on an Engine written in C and Sokol.
+My name is Stephan, intrested in game development, graphics programming. Right now working on an Engine written in C and Sokol.
 If anyone wants to get in contact:
   Discord: stepforward
 <!---
