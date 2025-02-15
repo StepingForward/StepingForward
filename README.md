@@ -28,6 +28,8 @@ Other software:
 
 Currently working on some games for game jams and expanding my knowledge:
   - [itch.io](https://stepforward.itch.io/)
+  - [twitch.tv](https://www.twitch.tv/staleogen)
+  - [youtube.com](https://www.youtube.com/@stepforward582/videos)
 
 I would love to find a passionate team and work with them.
 
