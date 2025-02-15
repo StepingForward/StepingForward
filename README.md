@@ -5,13 +5,13 @@ Have used quite a couple of different languages, but used the most:
 
   - C#
   - Rust
-  - C
+  - C / Odin
 
 Have used quite a couple of different frameworks, but used the most: 
 
   - FNA/XNA
   - Bevy
-  - Sokol
+  - Sokol.h / Sokol.odin
 
 The engines I have at least some experience with(didn't use game engines that much):
 
