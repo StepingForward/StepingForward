@@ -7,31 +7,29 @@ Have used quite a couple of different languages, but used the most:
   - Rust
   - C / Odin
 
-Have used quite a couple of different frameworks, but used the most: 
+Frameworks with most experience in order: 
 
-  - FNA/XNA
+  - FNA/XNA & SDL3
   - Bevy
-  - Sokol.h / Sokol.odin
 
-The engines I have at least some experience with(didn't use game engines that much):
+Engines with most experience in order:
 
-  - Unity
   - Godot
+  - Unity
 
-Other software:
+Other software, proficiency in order:
 
-  - Visual Studio
-  - Github
-  - Blender
-  - Blockbench
   - Aseprite
+  - Github
+  - Visual Studio
+  - Blender
 
 Currently working on some games for game jams and expanding my knowledge:
   - [itch.io](https://stepforward.itch.io/)
   - [twitch.tv](https://www.twitch.tv/staleogen)
   - [youtube.com](https://www.youtube.com/@stepforward582/videos)
 
-I would love to find a passionate team and work with them.
+I would love to find a passionate team and work on games.
 
 If anyone wants to get in contact:
   - Discord: stepforward
